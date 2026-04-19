@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS pdts_db;
+USE pdts_db;
